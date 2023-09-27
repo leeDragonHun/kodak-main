@@ -1,0 +1,58 @@
+.btn-outline-success {
+    color: red;
+    border-color: red;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: yellow;
+    color: red;
+    border-color: red;
+  }
+  
+  footer {
+    background-color: black;
+    color: white;
+    fadding:
+  }
+  
+  .first-line {
+    border-bottom: 1px solid #392d23;
+  }
+  
+  .second-line a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .third-line {
+    display: none;
+  }
+  
+  @media screen and (max-width:48rem) {
+    .first-line: {
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width:48rem) {
+    .second-line {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      border-bottom: 1px solid #392d23;
+    }
+  }
+  
+  @media screen and (max-width:48rem) {
+    .third-line {
+      display: block;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width:48rem) {
+    .pic-center {
+      margin-left: 20px;
+    }
+  }
